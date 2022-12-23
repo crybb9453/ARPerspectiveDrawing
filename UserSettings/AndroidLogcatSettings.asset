@@ -1,0 +1,143 @@
+{
+    "m_SelectedDeviceId": "27ba2fc4ad0d7ece",
+    "m_SelectedPackage": {
+        "deviceId": "27ba2fc4ad0d7ece",
+        "name": "com.KTH.ARPerspectiveDrawing",
+        "processId": 14041,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "27ba2fc4ad0d7ece",
+            "name": "com.KTH.ARPerspectiveDrawing",
+            "processId": 30658,
+            "exited": true
+        },
+        {
+            "deviceId": "27ba2fc4ad0d7ece",
+            "name": "com.KTH.ARPerspectiveDrawing",
+            "processId": 32684,
+            "exited": true
+        },
+        {
+            "deviceId": "27ba2fc4ad0d7ece",
+            "name": "com.KTH.ARPerspectiveDrawing",
+            "processId": 3026,
+            "exited": true
+        },
+        {
+            "deviceId": "27ba2fc4ad0d7ece",
+            "name": "com.KTH.ARPerspectiveDrawing",
+            "processId": 3974,
+            "exited": true
+        },
+        {
+            "deviceId": "27ba2fc4ad0d7ece",
+            "name": "com.sec.android.app.launcher",
+            "processId": 1589,
+            "exited": true
+        },
+        {
+            "deviceId": "27ba2fc4ad0d7ece",
+            "name": "com.KTH.ARPerspectiveDrawing",
+            "processId": 13631,
+            "exited": false
+        },
+        {
+            "deviceId": "27ba2fc4ad0d7ece",
+            "name": "com.KTH.ARPerspectiveDrawing",
+            "processId": 16693,
+            "exited": false
+        },
+        {
+            "deviceId": "27ba2fc4ad0d7ece",
+            "name": "com.KTH.ARPerspectiveDrawing",
+            "processId": 19462,
+            "exited": false
+        },
+        {
+            "deviceId": "27ba2fc4ad0d7ece",
+            "name": "com.KTH.ARPerspectiveDrawing",
+            "processId": 20882,
+            "exited": false
+        },
+        {
+            "deviceId": "27ba2fc4ad0d7ece",
+            "name": "com.KTH.ARPerspectiveDrawing",
+            "processId": 25135,
+            "exited": false
+        },
+        {
+            "deviceId": "27ba2fc4ad0d7ece",
+            "name": "com.KTH.ARPerspectiveDrawing",
+            "processId": 28821,
+            "exited": false
+        },
+        {
+            "deviceId": "27ba2fc4ad0d7ece",
+            "name": "com.KTH.ARPerspectiveDrawing",
+            "processId": 4918,
+            "exited": false
+        },
+        {
+            "deviceId": "27ba2fc4ad0d7ece",
+            "name": "com.KTH.ARPerspectiveDrawing",
+            "processId": 14041,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
